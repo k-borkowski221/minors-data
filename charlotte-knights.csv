@@ -1,4 +1,4 @@
-Name,B,Age,PO,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS
+Player,B,Age,PO,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS
 Jacob Amaya,R,26,SS,219,188,25,47,5,0,9,28,29,64,5,4
 Dru Baker,R,25,CF,276,250,33,64,9,2,5,17,17,81,16,5
 Brooks Baldwin,B,24,CF,132,117,29,43,5,2,12,25,12,22,4,4
@@ -46,3 +46,4 @@ Mike Tauchman,L,34,RF,43,36,3,4,0,0,1,4,6,13,0,0
 Kyle Teel,L,23,C,213,183,34,54,10,1,8,30,30,54,7,1
 Andrew Vaughn,R,27,1B,67,57,9,12,2,0,2,11,10,10,0,0
 Gage Workman,L,25,3B,12,8,3,2,0,0,0,1,4,6,2,0
+
