@@ -1,4 +1,4 @@
-Name,B,Age,PO,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS
+Player,B,Age,PO,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS
 Addison Barger,L,25,3B,45,38,6,8,2,0,2,7,5,13,0,0
 Steward Berroa,B,26,LF,86,77,15,15,3,0,0,4,8,24,9,3
 Christian Bethancourt,R,33,C,214,196,19,34,10,0,7,21,11,56,2,1
@@ -36,3 +36,4 @@ Michael Turconi,L,26,2B,28,23,4,3,1,0,0,3,4,8,0,0
 Brandon Valenzuela,B,24,C,105,92,9,19,6,0,3,12,12,32,0,0
 Daulton Varsho,L,28,CF,33,30,2,4,0,0,1,5,1,8,0,0
 Will Wagner,L,26,3B,79,71,13,19,4,0,3,13,8,12,1,0
+
